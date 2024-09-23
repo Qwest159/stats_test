@@ -2,6 +2,7 @@
   "name": "duche/stats_test",
   "description": "Librairie statistique",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Duche\\StatsTest\\": "src/"
